@@ -203,7 +203,7 @@ Steps for training:
 
 #### 📸 Sample Output:
 
-(https://github.com/user-attachments/assets/9fdfd148-5913-4926-97b8-bc76b50d320e) 
+![image](https://github.com/user-attachments/assets/a34d94a5-8dd1-4ad7-ba53-945444510f96)
 
 - **Healthy Prediction**: Predicted as Parkinson's Disease with a confidence of **50.54%**.
 - **Parkinson's Prediction**: Correctly predicted as Parkinson's Disease with a confidence of **50.34%**.

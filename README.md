@@ -203,10 +203,7 @@ Steps for training:
 
 #### 📸 Sample Output:
 
-| Healthy Spiral | Parkinson's Spiral |
-|----------------|---------------------|
-| ![Healthy Spiral]![image](https://github.com/user-attachments/assets/9fdfd148-5913-4926-97b8-bc76b50d320e) | ![Parkinson's Spiral]![image](https://github.com/user-attachments/assets/45e42807-52a6-458f-86ac-9cd30206f89b)
-|
+(https://github.com/user-attachments/assets/9fdfd148-5913-4926-97b8-bc76b50d320e) 
 
 - **Healthy Prediction**: Predicted as Parkinson's Disease with a confidence of **50.54%**.
 - **Parkinson's Prediction**: Correctly predicted as Parkinson's Disease with a confidence of **50.34%**.

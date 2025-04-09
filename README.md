@@ -17,7 +17,6 @@ We explore data analysis, apply machine learning models, and build a deep learni
 - [🤖 Part 2: Machine Learning on Voice Data](#-part-2-machine-learning-on-voice-data)
 - [🌀 Part 3: CNN for Spiral Image Detection](#-part-3-cnn-for-spiral-image-detection)
 - [🛠 Tech Stack](#-tech-stack)
-- [🚀 Getting Started](#-getting-started)
 - [📈 Results & Comparison](#-results--comparison)
 - [📄 License](#-license)
 - [🙌 Acknowledgements](#-acknowledgements)
@@ -206,7 +205,8 @@ Steps for training:
 
 | Healthy Spiral | Parkinson's Spiral |
 |----------------|---------------------|
-| ![Healthy Spiral](https://github.com/user-attachments/assets/763b36d7-d9e3-4a60-886e-798625379c84) | ![Parkinson's Spiral](https://github.com/user-attachments/assets/a8d96925-9da8-4823-b8b3-8a23c12e7ce5) |
+| ![Healthy Spiral]![image](https://github.com/user-attachments/assets/9fdfd148-5913-4926-97b8-bc76b50d320e) | ![Parkinson's Spiral]![image](https://github.com/user-attachments/assets/45e42807-52a6-458f-86ac-9cd30206f89b)
+|
 
 - **Healthy Prediction**: Predicted as Parkinson's Disease with a confidence of **50.54%**.
 - **Parkinson's Prediction**: Correctly predicted as Parkinson's Disease with a confidence of **50.34%**.

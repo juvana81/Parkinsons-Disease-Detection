@@ -73,25 +73,46 @@ We begin with detailed EDA to analyze voice features and their relationship with
 
 ### 🔍 Visualizations:
 
-- Count Plot: Healthy vs Parkinson's cases
-![image](https://github.com/user-attachments/assets/763b36d7-d9e3-4a60-886e-798625379c84)
+# Visualizations in Parkinson's Disease Detection Project
 
+This section presents various visualizations used in the project to analyze the voice dataset and its features.
 
-- Correlation Heatmap:  Feature correlation.
-![image](https://github.com/user-attachments/assets/a8d96925-9da8-4823-b8b3-8a23c12e7ce5)
+---
 
+## 1. Count Plot: Healthy vs Parkinson's Cases
+This plot shows the distribution of cases between healthy individuals and those with Parkinson's Disease, giving insight into the class balance of the dataset.
 
-- Data Distribution and Histograms
-![image](https://github.com/user-attachments/assets/e37910ce-6785-4403-ab2d-d63edfcf8643)
+![Count Plot](https://github.com/user-attachments/assets/763b36d7-d9e3-4a60-886e-798625379c84)
 
+---
 
-- Boxplots by status: Comparing Jitter values across `status`.
-![image](https://github.com/user-attachments/assets/d305b903-8d49-4aec-9ac4-080650c19ff7)
+## 2. Correlation Heatmap: Feature Correlation
+The heatmap illustrates the correlation between different features of the dataset, highlighting relationships and dependencies that may influence model performance.
 
+![Correlation Heatmap](https://github.com/user-attachments/assets/a8d96925-9da8-4823-b8b3-8a23c12e7ce5)
 
-- Pairplots for feature clusters
-![image](https://github.com/user-attachments/assets/3b421db3-049a-4625-bb58-83aa4a080cf8)
+---
 
+## 3. Data Distribution and Histograms
+This visualization provides an overview of the distributions of various features in the dataset, helping identify patterns, skewness, and outliers.
+
+![Data Distribution & Histograms](https://github.com/user-attachments/assets/e37910ce-6785-4403-ab2d-d63edfcf8643)
+
+---
+
+## 4. Boxplots by Status: Comparing Jitter Values
+Boxplots are used to compare the Jitter values across the `status` variable (Healthy vs Parkinson's), showcasing differences in feature distributions.
+
+![Boxplots by Status](https://github.com/user-attachments/assets/d305b903-8d49-4aec-9ac4-080650c19ff7)
+
+---
+
+## 5. Pairplots for Feature Clusters
+Pairplots visualize feature clusters and their pairwise relationships, segmented by the `status` variable. This helps in identifying separability between classes.
+
+![Pairplots for Feature Clusters](https://github.com/user-attachments/assets/3b421db3-049a-4625-bb58-83aa4a080cf8)
+
+---
 
 
 

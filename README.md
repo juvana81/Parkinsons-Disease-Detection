@@ -75,12 +75,20 @@ We begin with detailed EDA to analyze voice features and their relationship with
 
 - Count Plot: Healthy vs Parkinson's cases
 ![image](https://github.com/user-attachments/assets/763b36d7-d9e3-4a60-886e-798625379c84)
+
+
 - Correlation Heatmap:  Feature correlation.
 ![image](https://github.com/user-attachments/assets/a8d96925-9da8-4823-b8b3-8a23c12e7ce5)
+
+
 - Data Distribution and Histograms
 ![image](https://github.com/user-attachments/assets/e37910ce-6785-4403-ab2d-d63edfcf8643)
+
+
 - Boxplots by status: Comparing Jitter values across `status`.
 ![image](https://github.com/user-attachments/assets/d305b903-8d49-4aec-9ac4-080650c19ff7)
+
+
 - Pairplots for feature clusters
 ![image](https://github.com/user-attachments/assets/3b421db3-049a-4625-bb58-83aa4a080cf8)
 
